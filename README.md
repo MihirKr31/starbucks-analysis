@@ -47,7 +47,6 @@ Nutrition:
 Stores:
 
 - Kept the seven columns I needed and dropped the rest
-- City names came in inconsistent cases, like "RIYADH" sitting next to "Riyadh"
 - Ownership codes were abbreviated, so CO became Company Owned and LS became Licensed Store
 - One store has no coordinates. I kept it anyway so the store counts stay right.
 
